@@ -17,3 +17,12 @@ pip install opencv-contrib-python
 pip install pytesseract
 ```
 
+Import Libraries
+```python
+import cv2
+import pytesseract
+
+# Set path 
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+```
+
