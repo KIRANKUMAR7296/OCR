@@ -5,3 +5,15 @@
 - From a scanned document, a photo of a document, subtitle text superimposed on an image.
 - Extracting text from PDF and images (JPG, BMP, TIFF, GIF) and convert into editable Word, Excel and text output formats.
 
+
+Install `tesseract`
+```
+https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-rc1.20211030.exe
+```
+
+Install libraries
+```python
+pip install opencv-contrib-python
+pip install pytesseract
+```
+
