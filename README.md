@@ -6,8 +6,8 @@
 - Extracting text from PDF and images (JPG, BMP, TIFF, GIF) and convert into editable Word, Excel and text output formats.
 
 
-Download and install `tesseract` ocr engine.
-[Tesseract Wiki](https://github.com/UB-Mannheim/tesseract/wiki)
+Download and install the latest `tesseract` ocr engine from below link :
+- [https://github.com/UB-Mannheim/tesseract/wiki](https://github.com/UB-Mannheim/tesseract/wiki)
 ```
 https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-rc1.20211030.exe
 ```
